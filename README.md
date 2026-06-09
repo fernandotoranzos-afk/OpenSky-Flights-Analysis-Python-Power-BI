@@ -1,3 +1,4 @@
+<img width="1920" height="1080" alt="dashboard_opensky" src="https://github.com/user-attachments/assets/b657fae8-ab2e-491a-a952-67623e2cbe85" />
 # OpenSky-Flights-Analysis-Python-Power-BI
 OpenSky Flights Analysis using Python, OpenSky API data, and Power BI.
 OpenSky Flights Analysis
